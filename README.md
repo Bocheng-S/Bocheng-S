@@ -1,5 +1,5 @@
 # Bo-Cheng Shih 👋
-### National Chengchi University (NCCU), Taiwan — BA in Diplomacy Candidate
+### National Chengchi University (NCCU), Taiwan BA in Diplomacy Candidate
 ### 國立政治大學外交系
 
 ## 🎯 研究領域 | Research Focus
