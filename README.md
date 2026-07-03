@@ -1,29 +1,31 @@
-# Bo-Cheng Shih 👋
-### National Chengchi University (NCCU), Taiwan BA in Diplomacy Candidate
-### 國立政治大學外交系
+# Bo-Cheng Shih
+### National Chengchi University (NCCU), Taiwan
+### BA Candidate in Diplomacy
 
-## 研究領域 | Research Focus
+---
+
+## 關於我與研究興趣 | Research Focus
 
 ### 核心關注 | Core Interests
-* **核不擴散理論、延伸嚇阻與美中(中俄)戰略互動**
-  * *Nuclear Non-proliferation Theory, Extended Deterrence, and U.S.–China(-Russia) Strategic Interaction*
-* 主要探討大國武器移轉的政治邏輯及其對地區安全秩序的影響，特別聚焦於美國對亞洲盟邦的軍售模式與中國威脅感知之間的關聯性。
-  * *My work examines the political logic of great-power arms transfers and their effects on regional security order, with a focus on the relationship between U.S. arms sales to Asian allies and China's threat perception.*
+* **主要探討大國武器移轉的政治邏輯及其對地區安全秩序的影響**：目前聚焦於美國對亞洲盟邦的軍售模式，並嘗試理解其與中國威脅感知之間的關聯性。
+* *I am generally interested in the political logic of great-power arms transfers and their implications for regional security architecture, with a particular focus on U.S. arms sales to Asian allies and the corresponding dynamics in China's threat perception.*
 
-### 議題 | Issues
-* Nuclear Deterrence and Extended Deterrence
+### 關注議題 | Research Topics of Interest
+* Nuclear Deterrence & Extended Deterrence
 * Strategic Stability
-* Reputation & Credibility
-* Multipolarity / Tripolar Competition
+* Reputation & Credibility in International Politics
+* Multipolarity & Tripolar Competition
 
-### 區域 | Region
+### 關注區域與語言 | Regional Focus & Languages
 * China and Russia
 
-## 目前研究 | Current Project
+---
 
-### 國科會大專生研究計畫 | Taiwan NSTC Undergraduate Research Grant
-* 以美國對亞洲盟邦軍售與中國威脅感知的量化關聯性為主題，採 `panel data fixed-effect` 方法，輔以 Taiwan / Japan / Philippines 小樣本比較作為備援設計。
-  * *Quantitative study of the relationship between U.S. arms sales to Asian allies and Chinese threat perception, using a panel data fixed-effects approach with a small-N comparison (Taiwan, Japan, Philippines) as a backup design.*
+## 目前參與計畫 | Current Projects
+
+### 國科會大專生研究計畫 | Taiwan NSTC Undergraduate Research Grant (Proposed/In Progress)
+* **題目**：以美國對亞洲盟邦軍售與中國威脅感知的量化關聯性為主題，採 `panel data fixed-effect` 方法，輔以 Taiwan / Japan / Philippines 作為小 N 比較之備案設計。
+* *A quantitative exploration of the relationship between U.S. arms sales to Asian allies and Chinese threat perception, utilizing a panel data fixed-effects approach, supplemented by a small-N comparative analysis (Taiwan, Japan, and the Philippines) as an alternative design.*
 
 ---
 ## 📫 聯絡方式 | Contact
