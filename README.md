@@ -24,8 +24,8 @@
 ##  | Current Projects
 
 ### | Taiwan NSTC Undergraduate Research Grant (Proposed/In Progress)
-* **題目**：以美國對亞洲盟邦軍售與中國威脅感知的量化關聯性為主題，採 `panel data fixed-effect` 方法，輔以 Taiwan / Japan / Philippines 作為小 N 比較之備案設計。
-* *A quantitative exploration of the relationship between U.S. arms sales to Asian allies and Chinese threat perception, utilizing a panel data fixed-effects approach, supplemented by a small-N comparative analysis (Taiwan, Japan, and the Philippines) as an alternative design.*
+* **題目**：以美國對亞洲盟邦軍售與中國威脅感知的量化關聯性為主題
+* *A quantitative exploration of the relationship between U.S. arms sales to Asian allies and Chinese threat perception*
 
 ---
 ## | Contact
