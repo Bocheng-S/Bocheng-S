@@ -7,12 +7,11 @@
 ## | Research Focus
 
 ### | Core Interests
-* **主要探討大國武器移轉的政治邏輯及其對地區安全秩序的影響**：目前聚焦於美國對亞洲盟邦的軍售模式，並嘗試理解其與中國威脅感知之間的關聯性。
+* **大國武器移轉的政治因素及其對區域安全的影響**：目前聚焦於美國對亞洲盟邦的軍售，並嘗試理解其與中國威脅感知之間的關聯性。
 * *I am generally interested in the political logic of great-power arms transfers and their implications for regional security architecture, with a particular focus on U.S. arms sales to Asian allies and the corresponding dynamics in China's threat perception.*
 
 ### | Research Topics of Interest
 * Nuclear Deterrence & Extended Deterrence
-* Strategic Stability
 * Reputation & Credibility in International Politics
 * Multipolarity & Tripolar Competition
 
