@@ -1,9 +1,11 @@
 # Bo-Cheng Shih
-### National Chengchi University (NCCU), Taiwan
-### BA Candidate in Diplomacy
 
+## | Current Position
+### Institute of International Relations, NCCU
+## Research Assistant(RA) 2026/7-present
+## | Education
+### National Chengchi University (NCCU), Taiwan BA Candidate in Diplomacy
 ---
-
 ## | Research Focus
 
 ### | Core Interests
@@ -16,14 +18,14 @@
 * Multipolarity & Tripolar Competition
 
 ### | Regional Focus
-* China and Russia
-
+* China
+* East Asia
+* Russia
 ---
 
 ##  | Current Projects
 
 ### | Taiwan NSTC Undergraduate Research Grant (Proposed/In Progress)
-* **題目**：以美國對亞洲盟邦軍售與中國威脅感知的量化關聯性為主題
 * *A quantitative exploration of the relationship between U.S. arms sales to Asian allies and Chinese threat perception*
 
 ---
