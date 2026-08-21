@@ -1,38 +1,58 @@
 # Bo-Cheng Shih
 
 ## | Current Position
-### Institute of International Relations, NCCU
-## Research Assistant(RA) 2026/7-present
+
+**Institute of International Relations, National Chengchi University (NCCU)**  
+Research Assistant (RA) | 2026/7–Present
+
 ## | Education
-### National Chengchi University (NCCU), Taiwan BA Candidate in Diplomacy
+
+**National Chengchi University (NCCU), Taiwan**  
+BA Candidate in Diplomacy
+
 ---
+
 ## | Research Focus
 
 ### | Core Interests
-* **大國武器移轉的政治因素及其對區域安全的影響**：目前聚焦於美國對亞洲盟邦的軍售，並嘗試理解其與中國威脅感知之間的關聯性。
-* *I am generally interested in the political logic of great-power arms transfers and their implications for regional security architecture, with a particular focus on U.S. arms sales to Asian allies and the corresponding dynamics in China's threat perception.*
+
+- **大國武器移轉的政治邏輯及其對區域安全秩序的影響**：主要關注美國對亞洲盟邦的軍售與安全承諾，並探討國際結構、威脅認知與國內決策過程如何共同形塑美國的對外安全政策。
+- *I am broadly interested in the political logic of great-power arms transfers and their implications for regional security order, with a particular focus on how structural pressures, threat perceptions, and domestic decision-making processes shape U.S. security policy toward its Asian allies.*
 
 ### | Research Topics of Interest
-* Nuclear Deterrence & Extended Deterrence
-* Reputation & Credibility in International Politics
-* Multipolarity & Tripolar Competition
+
+- Great Power's Threat Perception
+- Alliance Politics
+- Reputation & Credibility in International Politics
+- Arms Transfers & Security Assistance
+- China Foreign Policy
+- East Asia Regional Security
 
 ### | Regional Focus
-* China
-* East Asia
-* Russia
+
+- East Asia
+- China
+- Russia
+
 ---
 
-##  | Current Projects
+## | Current Projects
 
 ### | Taiwan NSTC Undergraduate Research Grant (Proposed/In Progress)
-* *A quantitative exploration of the relationship between U.S. arms sales to Asian allies and Chinese threat perception*
+
+*The Political Logic of U.S. Arms Transfers to Asian Allies: Threat Perception, Organizational Processes, and Regional Security*
+
+- Examines the relationship between U.S. arms transfers to Asian allies and changes in Chinese threat perception.
+- Explores how structural pressures are interpreted and translated into foreign policy through threat perception, organizational processes, and bureaucratic politics.
+- *A quantitative exploration of the relationship between U.S. arms transfers to Asian allies and Chinese threat perception.*
 
 ---
+
 ## | Contact
-* **Email:** [114203046@g.nccu.edu.tw](mailto:114203046@g.nccu.edu.tw) / [bocheng1227@gmail.com](mailto:bocheng1227@gmail.com)
-* **Medium:** [https://medium.com/@bocheng1227](https://medium.com/@bocheng1227)
 
-***
+- **Email:** 114203046@g.nccu.edu.tw / bocheng1227@gmail.com
+- **Medium:** https://medium.com/@bocheng1227
 
->  *Last updated: 2026年7月*
+---
+
+> *Last updated: August 2026*
