@@ -1,4 +1,4 @@
-# Bo-Cheng Shih
+# Bo C. Shih
 
 ## | Current Position
 
