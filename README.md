@@ -50,7 +50,7 @@ BA Candidate in Diplomacy
 
 ## | Contact
 
-- **Email:** 114203046@g.nccu.edu.tw / bocheng1227@gmail.com
+- **Email:** 114203046@g.nccu.edu.tw
 - **Medium:** https://medium.com/@bocheng1227
 
 ---
